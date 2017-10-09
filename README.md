@@ -4,6 +4,7 @@ Rufus: The Reliable USB Formatting Utility
 [![Build status](https://ci.appveyor.com/api/projects/status/0nciqepn6hko4to9?svg=true)](https://ci.appveyor.com/project/pbatard/rufus)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/2172/badge.svg)](https://scan.coverity.com/projects/pbatard-rufus)
 [![Licence](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Frufus.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Frufus?ref=badge_shield)
 
 ![Rufus logo](https://raw.githubusercontent.com/pbatard/rufus/master/res/icon-set/rufus-128.png)
 
@@ -62,3 +63,7 @@ ISO: `en_windows_7_ultimate_with_sp1_x64_dvd_618240.iso`
 | [Windows USB/DVD Download Tool](http://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool) | v1.0.30 | 8 mins 10s |
 | [UNetbootin](http://unetbootin.sourceforge.net) | v1.1.1.1 | 6 mins 20s |
 | **Rufus** | v1.1.0 | **3 mins 25s** |
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Frufus.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Frufus?ref=badge_large)
